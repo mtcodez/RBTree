@@ -1,7 +1,7 @@
 #ifndef _RBTREE_H_
 #define _RBTREE_H_
 // A red black tree implementation
-// 2013(C) Matt Row <rowmante@gmail.com>
+// 2013(C) Matt Luo <mante.luo@gmail.com>
 
 #include <stdio.h>
 #include <malloc.h>
